@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "browser": "156.0.8078.47",
+  "routeChecks": 10,
+  "viewports": [
+    1440,
+    390
+  ],
+  "nestedPath": "/shukan-city-explorer/",
+  "scriptErrors": 0,
+  "httpErrors": 0,
+  "externalRequests": 0,
+  "webgl2": true,
+  "scenarioIndependentFormula": true,
+  "csvDisclaimer": true,
+  "remoteDeploymentTested": false
+}

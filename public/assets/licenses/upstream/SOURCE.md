@@ -1,0 +1,1 @@
+PMTiles 4.5.0 tarball declares BSD-3-Clause but omits its top-level license. Full upstream license archived from https://github.com/protomaps/PMTiles/blob/main/LICENSE on 2026-10-26. It covers reference code; sample tilesets have separate terms and are not included.

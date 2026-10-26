@@ -1,0 +1,15 @@
+{
+  "cityId": "demo-reference-disabled",
+  "population": 0,
+  "populationUnit": "合成占位",
+  "populationYear": 2024,
+  "populationStatPeriod": "合成占位，未接入",
+  "populationReferenceDate": "2024-12-31",
+  "sourceName": "未捆绑原统计参考文件",
+  "sourceTitle": "仅保留原模块所需结构；不提供真实城市人口",
+  "sourceUrl": "https://github.com/yangwei251003/shukan-city-explorer",
+  "publishedAt": "2026-10-26",
+  "snapshotPath": "",
+  "sha256": "",
+  "note": "合成占位。恢复原比赛应用时须提供已核实且拥有使用权的原始数据。"
+}

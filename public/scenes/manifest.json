@@ -1,0 +1,176 @@
+[
+  {
+    "file": "gd.webp",
+    "bytes": 69198,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-d6468b23-1e8e-4d36-8815-bcb0b3303724.png"
+  },
+  {
+    "file": "gd-mobile.webp",
+    "bytes": 20538,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-d6468b23-1e8e-4d36-8815-bcb0b3303724.png"
+  },
+  {
+    "file": "yangtze.webp",
+    "bytes": 75380,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-d3d8ff22-b906-4573-8f3e-54d7fb8b1bf6.png"
+  },
+  {
+    "file": "yangtze-mobile.webp",
+    "bytes": 21096,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-d3d8ff22-b906-4573-8f3e-54d7fb8b1bf6.png"
+  },
+  {
+    "file": "jingjinji.webp",
+    "bytes": 121596,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-6cb3c878-c54e-4d69-bd66-2515e387f0bb.png"
+  },
+  {
+    "file": "jingjinji-mobile.webp",
+    "bytes": 33536,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-6cb3c878-c54e-4d69-bd66-2515e387f0bb.png"
+  },
+  {
+    "file": "chengyu.webp",
+    "bytes": 240058,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-ac2fc531-5a3b-45a5-8764-2f7e960c47a7.png",
+    "sha256": "44f5b951195c251341a94e2a1d05aba9b8af6ea8abbe68b9d7fa2fbbb1373b3b",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "chengyu-mobile.webp",
+    "bytes": 75262,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-ac2fc531-5a3b-45a5-8764-2f7e960c47a7.png",
+    "sha256": "09019fc0e4dd77317458ee4e68723f1fab23acea49a21e518d0f1a6ec2b4362a",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "middle-yangtze.webp",
+    "bytes": 185644,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-82989b2d-335d-48aa-ba40-125c4a77226c.png",
+    "sha256": "5c96a5dceb6645067416b4a6881b4e654b780e229c193b1761fb7c82fcf0e72b",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "middle-yangtze-mobile.webp",
+    "bytes": 62732,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-82989b2d-335d-48aa-ba40-125c4a77226c.png",
+    "sha256": "f689cd46487b0b230c45fad126aaf51602373c24e77a2368aeaa0648ed98be7a",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "guanzhong.webp",
+    "bytes": 238718,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-92440289-41c7-4e2b-9897-1b2d0a136117.png",
+    "sha256": "267dfdbf0f3d32fb2ce6d959bf6db622c7ee73522b3b0cccdf18b7445fa9b79c",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "guanzhong-mobile.webp",
+    "bytes": 75934,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-92440289-41c7-4e2b-9897-1b2d0a136117.png",
+    "sha256": "d54e60b6d2b288f255aa2ddd5f3a47db4254ca02b50d2ab547c3fa56c2c7bd27",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "central.webp",
+    "bytes": 191234,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-22076a0d-8ebe-4cd8-8315-c932538c0062.png",
+    "sha256": "edbe077bf856e6b98213f8b551d0c8dcc029a81671127d8cd5754d20ac4bef61",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "central-mobile.webp",
+    "bytes": 64256,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-22076a0d-8ebe-4cd8-8315-c932538c0062.png",
+    "sha256": "005971b0ab97a12c6bba92d17f4ef60617abefdcb6388e35133fe3ce4a61f275",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "shandong.webp",
+    "bytes": 187634,
+    "width": 1600,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-2726331b-6116-4cd0-a6ec-85f629e759ab.png",
+    "sha256": "f8f0218a0109bf9ae632d1e92625b491405fd322d7144983ded49b938f2e4158",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  },
+  {
+    "file": "shandong-mobile.webp",
+    "bytes": 65742,
+    "width": 800,
+    "origin": "OpenAI imagegen builtin",
+    "label": "AI 场景示意",
+    "generatedOn": "2026-09-27",
+    "sourceFile": "exec-2726331b-6116-4cd0-a6ec-85f629e759ab.png",
+    "sha256": "32ab216d4456604e91e14ed41aeb286a56b241d19aeb3cd7f9001f8c1e12f171",
+    "usage": "单城视觉意象；并非实景摄影、地图或测绘证据",
+    "promptRecord": "source-data/v3-scenes/prompts.json"
+  }
+]

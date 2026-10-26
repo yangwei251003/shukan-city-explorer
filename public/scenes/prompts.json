@@ -1,0 +1,20 @@
+{
+  "tool": "imagegen builtin",
+  "createdOn": "2026-09-27",
+  "visualUse": "AI 场景示意，仅用于页头气氛，不作为城市几何或真实摄影",
+  "commonStyle": "Wide 3:1 editorial city scene; consistent subdued green palette, clear left-side negative space for title, one city per image, no text or UI.",
+  "subjects": [
+    [
+      "gd",
+      "Guangzhou Pearl River waterfront atmosphere at blue hour, a plausible single Guangzhou riverside view, calm broad river, green riverside trees and modern high-rise bank with Canton Tower as the only identifiable landmark in the right third; do not show or assemble any Shenzhen or Hong Kong landmarks."
+    ],
+    [
+      "yangtze",
+      "Shanghai Huangpu river looking from the Bund toward Lujiazui at blue hour, coherent single-bank Pudong panorama, Oriental Pearl to the left of the distant Shanghai Tower cluster as in the real Lujiazui skyline, no Suzhou garden or Nanjing landmark compositing."
+    ],
+    [
+      "jingjinji",
+      "Beijing old-city architecture atmosphere inspired by the north-south Central Axis: a coherent elevated view of grey hutong courtyard rooftops with a restrained ochre imperial roof in the distance, warm late afternoon, mature trees; avoid an exact named-palace reconstruction, no Tianjin port, no mountains or fabricated multi-city skyline."
+    ]
+  ]
+}
